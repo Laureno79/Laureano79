@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/d27e6c7c-f7e9-4573-850c-56fc79af2581)
+
 # 🛡️ Laureano Buralli | AI-SHIELD Design
 ### Especialista en Soluciones de IA, Seguridad y Gestión Territorial
 
