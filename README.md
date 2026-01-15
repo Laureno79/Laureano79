@@ -32,10 +32,9 @@
 ## 📊 Estadísticas de Desarrollo
 Aquí puedes ver mi actividad real y lenguajes más utilizados:
 
-![Estadísticas de Laureno](https://github-readme-stats.vercel.app/api?username=Laureno79&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Estadísticas de Laureno](https://github-readme-stats.vercel.app/api?username=Laureno79&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Laureno79&layout=compact&theme=tokyonight)
-
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Laureno79&layout=compact&theme=dracula&hide_progress=true)
 ---
 
 ## 📫 Conectemos
