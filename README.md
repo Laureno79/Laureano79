@@ -14,7 +14,6 @@
 
 ## 📊 Estadísticas de Desarrollo
 ![Estadísticas de Laureno](https://github-readme-stats.vercel.app/api?username=Laureno79&show_icons=true&theme=tokyonight&count_private=true)
-
 ## 🛠️ Tecnologías Principales
 `Python` `PostgreSQL` `PostGIS` `Telegram API` `OpenCV`
 
